@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Carrier Switcher</string>
+    <string name="password">Password</string>
+    <string name="changePass">Change Password</string>
+    <string name="go">Go!</string>
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+    <string name="oldPass">Old password</string>
+    <string name="newPass">New Password</string>
+    <string name="newPass2">New Password Again</string>
+    <string name="pass_change_success">Password Changed Successfully</string>
+    <string name="pass_missmatch">New passwords don\'t match</string>
+    <string name="old_pass_error">Incorrect Old Password</string>
+    <string name="incorrect_pass">Incorrect Password!</string>
+    <string name="action">android.intent.action.MAIN</string>
+    <string name="packageName">com.android.settings</string>
+    <string name="className">com.android.settings.RadioInfo</string>
+    <string name="setpass">Set a Password</string>
+    <string name="set">Set</string>
+    <string name="pass_leave_empty">Leave empty if you don\'t want password protection.</string>
+    <string name="pass_file">pass.kj</string>
+    <string name="err_saving_file">Unexpected error on saving password file</string>
+    <string name="err_file_read">Error reading password file</string>
+    <string name="sha256empty">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</string>
+    <string name="checksum_unsupported">Password protection is not available on this device</string>
+</resources>
