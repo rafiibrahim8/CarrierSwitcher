@@ -23,4 +23,6 @@
     <string name="err_file_read">Error reading password file</string>
     <string name="sha256empty">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</string>
     <string name="checksum_unsupported">Password protection is not available on this device</string>
+    <string name="use_bio_if_possible">Use device credential if possible</string>
+    <string name="bio_file">bio_en.jk</string>
 </resources>

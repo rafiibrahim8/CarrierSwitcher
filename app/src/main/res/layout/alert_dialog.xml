@@ -54,6 +54,12 @@
             android:layout_marginBottom="4dp"/>
     </com.google.android.material.textfield.TextInputLayout>
 
+    <com.google.android.material.checkbox.MaterialCheckBox
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/use_bio_if_possible"
+        android:id="@+id/use_bio" />
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
